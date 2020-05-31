@@ -1,7 +1,7 @@
 # covid-19-analysis
 CoronaVirus | Data Analysis using Python Pandas &amp; Dash!
 
-App Hosted on Heroku Paas Cloud => https://corona-virus-2020.herokuapp.com/
+App Hosted on Heroku Paas Cloud => https://covid2k20.herokuapp.com/
 
 ![](Images/country_view.PNG)
 
